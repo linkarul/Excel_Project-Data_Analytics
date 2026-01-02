@@ -19,3 +19,6 @@ In this project we get the count of food items ordered as per the branches.Here 
 
 
 <img width="1744" height="590" alt="Screenshot 2026-01-02 215055" src="https://github.com/user-attachments/assets/57ee32c4-4cb5-482f-a736-f08759270552" />
+
+
+In above example we have filtered the data based on south zone and we can see the branches that falls under the same and its corresponding food order count.
